@@ -1,0 +1,64 @@
+[2021-11-04 09:00:45] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold1 >>> val socre:0.1239
+[2021-11-04 09:01:06] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold2 >>> val socre:0.1339
+[2021-11-04 09:01:30] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold3 >>> val socre:0.1257
+[2021-11-04 09:01:50] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold4 >>> val socre:0.1322
+[2021-11-04 09:02:14] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold5 >>> val socre:0.1334
+[2021-11-04 09:02:39] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold6 >>> val socre:0.1316
+[2021-11-04 09:03:07] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold7 >>> val socre:0.1346
+[2021-11-04 09:03:38] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold8 >>> val socre:0.1324
+[2021-11-04 09:04:08] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold9 >>> val socre:0.1313
+[2021-11-04 09:04:37] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold10 >>> val socre:0.1256
+[2021-11-04 09:05:05] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold11 >>> val socre:0.1288
+[2021-11-04 09:05:32] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold12 >>> val socre:0.1357
+[2021-11-04 09:06:00] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold13 >>> val socre:0.1290
+[2021-11-04 09:06:28] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold14 >>> val socre:0.1371
+[2021-11-04 09:06:57] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold15 >>> val socre:0.1345
+[2021-11-04 09:07:26] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold16 >>> val socre:0.1375
+[2021-11-04 09:07:54] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold17 >>> val socre:0.1351
+[2021-11-04 09:08:22] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold18 >>> val socre:0.1311
+[2021-11-04 09:08:50] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold19 >>> val socre:0.1374
+[2021-11-04 09:09:17] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold20 >>> val socre:0.1336
+[2021-11-04 09:09:45] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold21 >>> val socre:0.1313
+[2021-11-04 09:10:14] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold22 >>> val socre:0.1306
+[2021-11-04 09:10:42] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold23 >>> val socre:0.1285
+[2021-11-04 09:11:10] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold24 >>> val socre:0.1339
+[2021-11-04 09:11:38] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold25 >>> val socre:0.1360
+[2021-11-04 09:12:07] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold26 >>> val socre:0.1353
+[2021-11-04 09:12:35] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold27 >>> val socre:0.1311
+[2021-11-04 09:13:04] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold28 >>> val socre:0.1385
+[2021-11-04 09:13:31] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold29 >>> val socre:0.1385
+[2021-11-04 09:13:59] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold30 >>> val socre:0.1363
+[2021-11-04 09:13:59] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025 >>> val score:0.1328
+[2021-11-04 09:14:19] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune compe score:0.1328, all score:0.14627529643395237
+[2021-11-04 09:14:20] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune compe score pp:0.1302, all score pp:0.14438430075916184
+[2021-11-04 09:15:15] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold1 inference
+[2021-11-04 09:15:39] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold2 inference
+[2021-11-04 09:16:02] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold3 inference
+[2021-11-04 09:16:26] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold4 inference
+[2021-11-04 09:16:49] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold5 inference
+[2021-11-04 09:17:12] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold6 inference
+[2021-11-04 09:17:35] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold7 inference
+[2021-11-04 09:17:59] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold8 inference
+[2021-11-04 09:18:21] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold9 inference
+[2021-11-04 09:18:44] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold10 inference
+[2021-11-04 09:19:07] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold11 inference
+[2021-11-04 09:19:30] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold12 inference
+[2021-11-04 09:19:53] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold13 inference
+[2021-11-04 09:20:16] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold14 inference
+[2021-11-04 09:20:41] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold15 inference
+[2021-11-04 09:21:04] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold16 inference
+[2021-11-04 09:21:28] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold17 inference
+[2021-11-04 09:21:51] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold18 inference
+[2021-11-04 09:22:14] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold19 inference
+[2021-11-04 09:22:37] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold20 inference
+[2021-11-04 09:23:00] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold21 inference
+[2021-11-04 09:23:23] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold22 inference
+[2021-11-04 09:23:46] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold23 inference
+[2021-11-04 09:24:09] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold24 inference
+[2021-11-04 09:24:32] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold25 inference
+[2021-11-04 09:25:02] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold26 inference
+[2021-11-04 09:25:28] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold27 inference
+[2021-11-04 09:25:52] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold28 inference
+[2021-11-04 09:26:16] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold29 inference
+[2021-11-04 09:26:40] - Exp-102-ResBiLSTM-v2-CustomLoss-v1-AdamW-LogUin-30Fold-Seed2025-FineTune-2025_fold30 inference
+[2021-11-04 09:32:37] - train-fold-num:30,oof-score:0.13020,oof-score-all:0.14438
